@@ -1,0 +1,15 @@
+{
+ "train_cost_mix_8192": 0.07131187150609263,
+ "train_viol_mix_8192": 0.08793402777777777,
+ "train_cost_mix_10240": 0.08082072600681799,
+ "train_viol_mix_10240": 0.005815972222222222,
+ "seeds_below_2pct": {
+  "PPO-FixedMem": 0,
+  "PPO-FixedPenalty": 2,
+  "PPO-Lag": 1,
+  "PPO-Lag+Guardrail": 1,
+  "PPO-Memoryless": 2,
+  "PPO-NoFallback": 0,
+  "PPO-NoPC": 5
+ }
+}

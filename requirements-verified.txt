@@ -1,0 +1,6 @@
+# Direct dependencies used for release verification (not original training).
+# Install torch from the CPU index first, as shown in README.md.
+numpy==2.5.0
+pandas==3.0.3
+scipy==1.18.0
+torch==2.14.1

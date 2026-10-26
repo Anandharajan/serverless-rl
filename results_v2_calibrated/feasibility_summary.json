@@ -1,0 +1,56 @@
+{
+ "budgets": {
+  "slack": 0.2685,
+  "active": 0.2488,
+  "tight": 0.2021
+ },
+ "fallback_quota": 0.2,
+ "cost_lower_reference": 0.2399371087478877,
+ "static_best_action": {
+  "slack": 140,
+  "active": 28,
+  "tight": 28
+ },
+ "static_best_desc": {
+  "slack": [
+   10240,
+   0,
+   0
+  ],
+  "active": [
+   1024,
+   0,
+   0
+  ],
+  "tight": [
+   1024,
+   0,
+   0
+  ]
+ },
+ "min_route0_cost": 0.24949481857453928,
+ "max_route0_cost": 1.6904620171659246,
+ "mpc_mu": {
+  "slack": 0.5,
+  "active": 4.0,
+  "tight": 4.0
+ },
+ "static_mix": {
+  "slack": [
+   10240,
+   0
+  ],
+  "active": [
+   10240,
+   0
+  ],
+  "tight": [
+   4096,
+   0
+  ]
+ },
+ "static_best_note": {
+  "active": "no static primary configuration meets the budget; cheapest used (cost 0.2498, viol 0.973)",
+  "tight": "no static primary configuration meets the budget; cheapest used (cost 0.2498, viol 0.973)"
+ }
+}

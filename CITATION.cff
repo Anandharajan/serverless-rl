@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software when using these experiments."
+title: "Serverless RL: constrained control of serverless generative-AI inference"
+type: software
+authors:
+  - name: Anandharajan
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Anandharajan/serverless-rl"
+url: "https://github.com/Anandharajan/serverless-rl"

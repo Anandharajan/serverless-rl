@@ -1,0 +1,2 @@
+# Preserve exact release bytes for the SHA-256 manifest across platforms.
+* -text

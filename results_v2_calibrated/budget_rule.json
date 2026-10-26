@@ -1,0 +1,6 @@
+{
+ "slack": 0.2685,
+ "active": 0.2488,
+ "tight": 0.2021,
+ "rule": "slack=1.06*cost(static 10240,0,primary); active=1.02*cost(quota-filling 10240,0); tight=0.8125*active (same ratios as nominal study)"
+}
